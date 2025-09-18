@@ -1,6 +1,6 @@
 import java.util.*;
 
-class IPAddress {
+class IPAddress6 {
 
     public boolean isValidIPv6(String s) {
         if(s == null || s.length() == 0) return false;
